@@ -213,7 +213,7 @@ const ServicePage = () => {
           <Text
          className="mt-[50px] md:text-3xl xs:text-[20px] lg:text-[32px] text-black-900 text-center"
             size="txtRobotoBold32">
-          Услуги наших экспертов по строительство!
+          Услуги наших экспертов по строительствy!
         </Text>
 
 
